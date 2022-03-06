@@ -1,7 +1,7 @@
 {
   "functions": {
     "targets": [
-      "functions/test_function/src/app.js"
+      "functions/test_function"
     ],
     "ignore": [],
     "source": "functions"
